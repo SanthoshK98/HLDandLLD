@@ -1,0 +1,46 @@
+Design patterns are common architecture approaches
+Popularized by the gang of four book in 1994
+Translated to many languages like c, c++, java, javascript
+Universally relevant
+
+
+Course Structure
+
+SOLID
+
+Creational
+Structural
+Behavioral
+
+Creational 
+    Builder
+    Factories
+        Abstract Factory
+        Factory Method
+    Prototype
+    Singleton
+Structural
+    Adapter
+    Bridge
+    Composite
+    Decorator
+    Facade
+    Flyweight
+    Proxy
+Behavioral
+    Chain of Responsibility
+    Command
+    Intrepreter
+    Iterator
+    Mediator
+    Memento
+    Observer
+    State
+    Strategy
+    Template Method
+    Visitor
+
+Single Responsibility Principle
+    each class should have unique or one responsibility 
+Open-Closed Principle
+    open for extension but closed for modification
